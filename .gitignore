@@ -31,3 +31,6 @@ backend.tf
 tfscript.txt
 package_appsvr.txt
 package_jenkins.txt
+
+# Credentialfile
+**/0-gcp-credentials/*
