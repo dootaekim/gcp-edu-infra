@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "knight-crawler-302215",
+  "private_key_id": "a79c36e9d63e987f2aca33839870bdaea7f4e2d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaxJGMn0yw8acH\nOw9Cf+HlCjPX9l/R/6wIysAOU3I7mSaRX/1/AkDKnPlp9WSkINvxq1QpPG2Guovw\ncNn1L1p8y8Y5R5cDJOWHWyH9PX7BowA3eagBgjDrk28WCuo/8WT6S2Kr0dd9RNdi\neT6khzqi2HuhVW6e8iITn6PZuZPYCUH6JYpw8SL35Vunl5pnoCucbxHFk3xdGt6v\nxAwWalshCJBVzjf1gwjBUwqK//y837xMBNtYuU9s1g0bTUcuS1YAhA62uq7BVD10\n/6R4JAZUTiW32rJFRV0XlMClimuwXVOIplTOpntT4DuiK4k/IJX79IKlJxDSuq8t\nlO4cndjvAgMBAAECggEAD+84GxXVpAwlScnLXunivJ2py8zqfakIsdkKIA94Xel9\nPo92/oohWJsD1OR2ia12Z7HfluVJU4tGWCmOTz+iXeHvFTupMSIt3ZtE6xlXQSGC\nprOIWCtq1P5XfBoAlzfH0TtMu+r9eEDLujBIglEH+Pc391rf6k58sq+Hg6WnMqFM\nTIvOIM1QynO79AL8bHTEYkFHBEoTa1O0U75RRDPPyASjAmmZLOn7MoeWioI1RwF/\nRKfOnhy1Dd5wCrl9+QOPQq3WuKgKh3v2pFo5ei1W/a3OSASfUkxTkBfEVS0NoDx2\n9OPEafPCZ0qw4aFtb9xMioe3ItLMwDklesxf2HrOjQKBgQDU6gEvUJ+MH0p1MYpr\nuHBJlpbIEmq/U8DzKFUhBGtqx9H7N1mDLMwfx48gZKAhJuzphIPIyXkI7IMi/7Cw\nPSKi+sbHIgXUHrB+IyWntbu4A+rawKdpUrI1/C9uETkPYLalCvzGfOegH0DMWvL/\n5zbC9FG42Aa8PYecA/k5YZ2DEwKBgQC6Fk2louQqtP9ZlKcDMDay/tHie0n8Imfp\n/pQKyZDDBETKO6pjTrZpoTPal0FhkAnXr87NGDO63DvZsVJQi07RjheGDJsV9BjY\nI7PdN061gpI54V6ZemnNr4A+apttTBmrnOqXrqKO+3GT4MpHxa8KQgjlvhrAGpTW\npn5CU/gyNQKBgDwic383mDhtRgxfl6bhCuXd4GxVt0yejSqgQ5r1spkQIuB/O4rv\nBiAbrvMJOKjkY5l40ffN35+DnW4vJWpBehzqE2Z+14KXwGV/68y4aXKJuLVcIGyA\n7NCOj57YwnLzb+Khfc9Zy9nPue996JAab78UXliEuzJDdp+8B5ILXf99AoGBAKpG\n+FwllsVhg/szpDOtrY/SzrmAeW3HCfE7K7pHQTjCMjQfrsVaZF55zNor5/7fb7I2\nxHQ1vjgxiG6l7J2ZK9FjRTE7XboT95vn55D4KAS9axKdoBOuyRwWiLIUmQ7FQQQg\n/SU4/rT5bq+TVWWhhY9MZ5naf93jNOjJxuTos0c1AoGAOzC9banMo5ml8HvYASlb\n6cHLr3KKi6t9qvbVfF4HJw5clBEFADCrf3C2Z1Qkkaf8zUpa2X2O9CEyBnrpazYv\nls+R6IywdRWEKmRGB8foz9SYo8GUIwOmC8Znpp1vzdqWn7KUbw2r91cXzLDTTaGS\n+C3M3y4G6ucrzXfuD/nOks8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "knight-crawler-dev-svc@knight-crawler-302215.iam.gserviceaccount.com",
+  "client_id": "108840690666442385651",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/knight-crawler-dev-svc%40knight-crawler-302215.iam.gserviceaccount.com"
+}

@@ -1,0 +1,55 @@
+Ubuntu
+
+# disk partition 및 mount
+
+https://suwoni-codelab.com/linux/2017/05/22/Linux-CentOS-hdd/
+
+# soft link
+ln -s /test.txt /tmp/s_link.txt
+
+# java 11
+https://triest.tistory.com/48
+
+apt install openjdk-11-jdk 
+add-apt-repository ppa:openjdk-r/ppa
+
+# npm 원하는 버전 설치 (8)
+
+# 8점대 버전을 다운 받으려는 경우
+
+# 9점대 버전을 다운 받으려는 경우
+
+# 12점대 버전을 다운 받으려는 경우
+
+curl -fsSL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+apt-get install -y nodejs
+apt-get install -y npm # 패키지 호환성 오류나지만 nodejs 설치하면서 설치가 되어있는것으로 보임
+
+# nginx 설치
+apt-get -y install nginx
+
+# 사용자 추가
+useradd appadm
+chsh -s /bin/bash appadm
+
+# redis 설치
+apt-get update
+apt-get upgrade
+apt-get -y install redis-server
+## server 기동 시 redis 기동
+systemctl enable redis-server.service
+
+# tomcat 설치/복사
+
+# tomcat 설정 (conf, ssl 등)
+
+# nginx 설정 (conf)
+
+# mysql 설치
+apt-get -y install mysql-server
+
+## 외부접속기능설정(3306)
+ufw allow mysql
+
+systemctl start mysql
+systemctl enable mysql
