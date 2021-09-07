@@ -1,2 +1,2 @@
-# crawler-infra
+# gcp-edu-infra
 cloud infra
